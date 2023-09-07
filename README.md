@@ -17,28 +17,4 @@
   1. Python
   2. pip
 
-**Execute**
 
-1. Install the Python 3.0.0 packages or higher.
-2. Clone the repository in your system.
-
-       git clone https://github.com/sawantvikram/House-Price-Prediction.git
-
-3. Open the project directory.
- 
-        cd House-Price-Prediction
-
-4. Install required packages.
-      
-         pip3 install -r requirements.txt
-
-5. Run the server.py
-
-       python3 server.py
-            
-
-6. Copy and paste the link below in any browser.
-
-       http://127.0.0.1:5000
-       
-**If you like the project then please give the star.**
