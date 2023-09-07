@@ -1,0 +1,19 @@
+[1] V. Gampala, N. Y. Sai and T. N. Sai Bhavya, "Real-Estate Price Prediction System using Machine Learning," 2022 International Conference on Applied Artificial Intelligence and Computing (ICAAIC), Salem, India, 2022, pp. 533-538, doi: 10.1109/ICAAIC53929.2022.9793177.
+
+[2] S. K. Dey and S. Urolagin, "Real Estate Price Prediction using Data Mining Techniques," 2021 IEEE 4th International Conference on Computing, Power and Communication Technologies (GUCON), Kuala Lumpur, Malaysia, 2021, pp. 1-4, doi: 10.1109/GUCON50781.2021.9573829.
+
+[3] V. Matey, N. Chauhan, A. Mahale, V. Bhistannavar and A. Shitole, "Real Estate Price Prediction using Supervised Learning," 2022 IEEE Pune Section International Conference (PuneCon), Pune, India, 2022, pp. 1-5, doi: 10.1109/PuneCon55413.2022.10014818.
+
+[4] S. Anand, P. Yadav, A. Gaur and I. Kashyap, "Real Estate Price Prediction Model," 2021 3rd International Conference on Advances in Computing, Communication Control and Networking (ICAC3N), Greater Noida, India, 2021, pp. 541-543, doi: 10.1109/ICAC3N53548.2021.9725772.
+
+[5] Y. Panchal, M. Mer and A. Ghosh, "Residential Property Price Prediction Using Machine Learning: MakanSETU," 2022 International Seminar on Application for Technology of Information and Communication (iSemantic), Semarang, Indonesia, 2022, pp. 257-262, doi: 10.1109/iSemantic55962.2022.9920395.
+
+[6] M. Cekic, K. N. Korkmaz, H. Müküs, A. A. Hameed, A. Jamil and F. Soleimani, "Artificial Intelligence Approach for Modeling House Price Prediction," 2022 2nd International Conference on Computing and Machine Intelligence (ICMI), Istanbul, Turkey, 2022, pp. 1-5, doi: 10.1109/ICMI55296.2022.9873784.
+
+[7] Guangliang Gao, Zhifeng Bao, Jie Cao, A. K. Qin, and Timos Sellis. 2022. Location-Centered House Price Prediction: A Multi-Task Learning Approach. ACM Trans. Intell. Syst. Technol. 13, 2, Article 32 (April 2022), 25 pages. https://doi-org.egateway.vit.ac.in/10.1145/3501806
+
+[8] M. Ahtesham, N. Z. Bawany and K. Fatima, "House Price Prediction using Machine Learning Algorithm - The Case of Karachi City, Pakistan," 2020 21st International Arab Conference on Information Technology (ACIT), Giza, Egypt, 2020, pp. 1-5, doi: 10.1109/ACIT50332.2020.9300074.
+
+[9] L. Li and K. -H. Chu, "Prediction of real estate price variation based on economic parameters," 2017 International Conference on Applied System Innovation (ICASI), Sapporo, Japan, 2017, pp. 87-90, doi: 10.1109/ICASI.2017.7988353.
+
+[10] H. Xue, "The Prediction on Residential Real Estate Price Based on BPNN," 2015 8th International Conference on Intelligent Computation Technology and Automation (ICICTA), Nanchang, China, 2015, pp. 1008-1013, doi: 10.1109/ICICTA.2015.256.
